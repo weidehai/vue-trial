@@ -4,8 +4,6 @@ import {router} from './router/router'
 import store from './store/store'
 import './directive/directive'
 
-import $ from 'jquery'
-
 Vue.config.productionTip = false
 
 new Vue({
